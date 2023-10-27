@@ -13,8 +13,6 @@ public Intro(String firstName, String lastName) {
 
 ## He there! &#x1F44C;
 
-```markdown
-
 <table border="collapse">
     <tbody>
         <tr>
