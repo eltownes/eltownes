@@ -1,3 +1,13 @@
+> "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."</span>  
+> \- Brian Kernighan</span>
+
+<div style="text-align: center;">
+
+<span>Your centered text here</span>
+
+</div>
+
+## He there! ✌🏽
 
 ```java
 public class Intro whoami = new Intro("Eric", "Townes");
@@ -7,53 +17,19 @@ public Intro(String firstName, String lastName) {
     this.lastName = lastName; }
 ```
 
-```markdown
-## He there!
-```
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## He there! &#x1F44C;
-
-<table border="collapse">
-    <tbody>
-        <tr>
-            <td>
-                ```markdown
-                # He there! &#x1F44C;
-                ```
-                <h2>He there! &#x1F44C;</h2>
-<pre>
-public class Intro whoami = new Intro("Eric", "Townes");
-..
-public Intro(String firstName, String lastName) {
-    this.firstName = firstName;
-    this.lastName = lastName; }
-</pre>
-                <br>
-                <div>
-                <a href="https://www.linkedin.com/in/eric-townes-137279286">
-                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-                <a href="mailto:ericltownes@gmail.com?subject=Saw your GitHub profile...&body=">
-                    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-                </div>
-            </td>
-            <td>
-                <br><br>
-                <blockquote>
-                  Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
-                  <cite>- Brian Kernighan</cite>
-                </blockquote>
-                <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=eltownes&hide_border=true&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true" alt="GitHub Streak" /></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div style="text-align: center;">
+<a href="https://www.linkedin.com/in/eric-townes-137279286">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:ericltownes@gmail.com?subject=Saw your GitHub profile...&body=">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+</div>
 
 
-<hr style="height: 1px; background-color: #A9A9A9;">
-
-<div id="about">
-
-<h3 style="color: #0066CC;">About me 🧑🏽‍💻</h3>
+## About me 🧑🏽‍💻
 
 🪖 Enrolled in Codeup's Java Full Stack Bootcamp until 18 March 2024 as a VET TEC (USA) beneficiary.<br>
 📚 Lorem ipsum<br>
@@ -63,7 +39,7 @@ public Intro(String firstName, String lastName) {
 🗺️ Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
 💧 Learning slowly about building enterprise blockchain applications with R3's Corda 5.<br>
 
-</div>
+
 
 <hr style="height: 1px; background-color: #A9A9A9;">
 
