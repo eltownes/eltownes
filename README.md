@@ -1,28 +1,33 @@
+<style>
+  p {
+    color: #0066CC;
+  }
+</style>
 
+# He there! ✌🏽
 
-<div id="header">
 
 <table>
     <tbody>
         <tr>
-            <td style="vertical-align: top; width: 60%;">                
-                <p style="text-align: center; font-size: 2.5em; font-weight: bold; color: #0066CC">He there! ✌🏽</p>               
-                <pre>                
-                Intro whoami = new Intro("Eric", "Townes");
-                ...
-                public Intro(String firstName, String lastName) {
-                &nbsp;&nbsp;&nbsp;this.firstName = firstName;
-                &nbsp;&nbsp;&nbsp;this.lastName = lastName; }                
-                </pre>
+            <td>                
+                <h3>He there! ✌🏽</h3>
+<pre><code class="java">
+public class Intro whoami = new Intro("Eric", "Townes");
+..
+public Intro(String firstName, String lastName) {
+    this.firstName = firstName;
+    this.lastName = lastName; }
+</code></pre>
                 <br>
-                <div style="text-align: center;">
+                <div>
                 <a href="https://www.linkedin.com/in/eric-townes-137279286">
                     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
                 <a href="mailto:ericltownes@gmail.com?subject=Saw your GitHub profile...&body=">
                     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
                 </div>
             </td>
-            <td style="text-align: center; vertical-align: bottom; width: 40%;">
+            <td>
                 <br><br>
                 <blockquote>
                   Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
@@ -34,7 +39,6 @@
     </tbody>
 </table>
 
-</div>
 
 <hr style="height: 1px; background-color: #A9A9A9;">
 
