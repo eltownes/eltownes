@@ -1,24 +1,24 @@
-<style>
-  p {
-    color: #0066CC;
-  }
-</style>
 
-# He there! ✌🏽
-
+```java
+public class Intro whoami = new Intro("Eric", "Townes");
+..
+public Intro(String firstName, String lastName) {
+this.firstName = firstName;
+this.lastName = lastName; }
+```
 
 <table>
     <tbody>
         <tr>
             <td>                
-                <h3>He there! ✌🏽</h3>
-<pre><code class="java">
+                <h2>He there! &#x1F44C;</h2>
+<pre>
 public class Intro whoami = new Intro("Eric", "Townes");
 ..
 public Intro(String firstName, String lastName) {
     this.firstName = firstName;
     this.lastName = lastName; }
-</code></pre>
+</pre>
                 <br>
                 <div>
                 <a href="https://www.linkedin.com/in/eric-townes-137279286">
