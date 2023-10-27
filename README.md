@@ -3,14 +3,25 @@
 public class Intro whoami = new Intro("Eric", "Townes");
 ..
 public Intro(String firstName, String lastName) {
-this.firstName = firstName;
-this.lastName = lastName; }
+    this.firstName = firstName;
+    this.lastName = lastName; }
 ```
 
-<table>
+```markdown
+## He there!
+```
+
+## He there! &#x1F44C;
+
+```markdown
+
+<table border="collapse">
     <tbody>
         <tr>
-            <td>                
+            <td>
+                ```markdown
+                # He there! &#x1F44C;
+                ```
                 <h2>He there! &#x1F44C;</h2>
 <pre>
 public class Intro whoami = new Intro("Eric", "Townes");
