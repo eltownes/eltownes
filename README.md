@@ -1,105 +1,115 @@
-> "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."</span>  
-> \- Brian Kernighan</span>
+<div align="center">
+    <img src="media/debugging_is_twice_as_hard.png" alt="quote by Brian Kernighan" align="center" width=55% />
+</div> 
 
-<div style="text-align: center;">
+## Hey There! ✌🏽
 
-<span>Your centered text here</span>
+<img src="media/intro.gif" alt="intro gif" width="70%" /><br>
 
-</div>
+<table>
+    <tr>
+        <td align="center">
+            &nbsp; <a href="https://www.linkedin.com/in/eric-townes-137279286" target="_blank">
+                <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> &nbsp; 
+            <br>
+            &nbsp; <a href="https://www.youtube.com/@surlydata3125" target="_blank">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/></a> &nbsp; 
+            <br><br>
+            &nbsp; <a href="mailto:ericltownes@gmail.com?subject=Saw your profile&body=">
+                <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a> &nbsp; 
+            <br>
+        </td>
+        <td>
+            <a href="https://git.io/streak-stats">
+                <img src="http://github-readme-streak-stats.herokuapp.com?user=eltownes&hide_border=true&exclude_days=Sun%2CSat&card_width=400&hide_total_contributions=true" alt="GitHub Streak" />
+            </a>
+        </td>
+    </tr>
+</table><br>
 
-## He there! ✌🏽
+## About Me 🧑🏽‍💻
 
-```java
-public class Intro whoami = new Intro("Eric", "Townes");
-..
-public Intro(String firstName, String lastName) {
-    this.firstName = firstName;
-    this.lastName = lastName; }
-```
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div style="text-align: center;">
-<a href="https://www.linkedin.com/in/eric-townes-137279286">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href="mailto:ericltownes@gmail.com?subject=Saw your GitHub profile...&body=">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
-
-
-## About me 🧑🏽‍💻
-
-🪖 Enrolled in Codeup's Java Full Stack Bootcamp until 18 March 2024 as a VET TEC (USA) beneficiary.<br>
-📚 Lorem ipsum<br>
-📚 Lorem ipsum<br>
-📚 Lorem ipsum<br>
-🚴🏽‍ Really enjoy cycling.<br>
-🗺️ Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
-💧 Learning slowly about building enterprise blockchain applications with R3's Corda 5.<br>
+🪖 &nbsp; Enrolled in Codeup's Java Full Stack Bootcamp until <span><em><strong>18 March 2024</strong></em><span> as a VET TEC beneficiary.<br>
+📚 &nbsp; B.S. in Information Studies from <a href="https://www.usf.edu/" target="_blank">Uni of S. FL</a> / concentration in Data Science and Analytics using R .<br>
+🚴🏽‍ &nbsp; Really enjoy cycling - raced a couple of sanctioned events with 1 top 10 finish!<br>
+🗺️ &nbsp; Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
+💧 &nbsp; Slowly learning Agile/Scrum, developing on Google Cloud, and Tensorflow.js.<br>
+<br>
 
 
+## Tools 🛠️ &nbsp; | &nbsp; <span style="font-size: 0.60em;">(...skilled by 18 March '24)</span>
 
-<hr style="height: 1px; background-color: #A9A9A9;">
+* #### Learning / Using:
+<img src="media/space.png" title="space" alt="space" width="4%"/>
+<img src="media/html5-color.svg" title="HTML5" alt="HTML5" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
+<img src="media/css3-color.svg" title="CSS3" alt="CSS3" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
+<img src="media/javascript-color.svg" title="Javascript" alt="Javascript" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
+<img src="media/java-svgrepo-com.svg" title="Java" alt="Java" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
+<img src="media/springboot-color.svg" title="SpringBoot" alt="SpringBoot" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
+<img src="media/mysql.png" title="MySQL" alt="MySQL" width="8%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
+<br><br>
+<img src="media/space.png" title="space" alt="space" width="4%"/>
+<img src="media/supercloud.svg" title="Google Cloud" alt="Google Cloud" width="5.5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
 
-<div id="tools">
-<h3 style="color: #0066CC;"> Tools 🛠️ </h3>
 
-<img src="media/html5-color.svg" title="HTML5" alt="HTML5" width="4%" height="4%"/>&nbsp;&nbsp;
-<img src="media/css3-color.svg" title="HTML5" alt="HTML5" width="4%" height="4%"/>&nbsp;&nbsp;
-<img src="media/javascript-color.svg" title="HTML5" alt="HTML5" width="4%" height="4%"/>&nbsp;&nbsp;
+* #### Used: 😢
+<img src="media/space.png" title="space" alt="space" width="4%"/>
+<img src="media/r-color.png" title="R" alt="R" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%">
+<img src="media/rstudio.png" title="RStudio" alt="RStudio" width="11%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
+<img src="media/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
+<img src="media/tidymodels.svg" title="Tidymodels" alt="Tidymodels" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
+<img src="media/tableau.png" title="Tableau" alt="Tableau" width="16%"/><img src="media/space.png" title="space" alt="space" width="1%"/>
+<img src="media/alteryx.png" title="Alteryx" alt="Alteryx" width="9%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
+<br><br>
 
-<img src="media/RStudio-Logo.svg" title="RStudio" alt="RStudio" width="9%" height="9%"/>&nbsp;&nbsp;
-<img src="media/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="4%" height="4%"/>&nbsp;&nbsp;
+* <details>
+    <summary>Minimalist 🌐 🔗 links</summary><br>
 
-<details>
-    <summary>Essentials</summary>
+  * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Web Documentation</a>.
+  * <a href="https://docs.oracle.com/en/java/javase/17/index.html" target="_blank">Java SE 17 Documentation</a>.
+  * <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/index.html" target="_blank">Spring Boot Reference Documentation</a>.
+  * <a href="https://www.statlearning.com/" target="_blank">An Introduction to Statistical Learning</a>.
 
-* The new classic!? <a href="https://www.statlearning.com/" target="_blank">An Introduction to Statistical Learning with Applications in R</a>.
-* <a href="https://www.tmwr.org/" target="_blank">Tidy Modeling with R</a>.
-* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Web Docs</a>.
-* Lorem ipsum.
+</details><br>
 
-</details>
 
-</div>
+## Notes 📓
 
-<hr style="height: 1px; background-color: #A9A9A9;">
+🗒️ &nbsp; <a href="notes.md" target="_blank">Hodge podge of tech snippets</a><br><br>
 
-<div id="Portfolio">
-<h3 style="color: #0066CC;"> Portfolio 📚 </h3>
+##  Portfolio 📚
 
-📑 Surly 😡 Data: a little bit of statistical counseling for bad-tempered data i.e. OG machine learning.
-* R and its tidy paradigm: predicting credit worthiness for new applications at Small Bank USA.
-    * <a href="https://www.youtube.com/watch?v=bW47QDyInDo" target="_blank">Business summary (YT)</a> and
-        the <a href="https://github.com/surlydata/Surly-Data/blob/main/Credit%20Worthiness/Credit%20Worthiness.pptx" target="_blank"> PowerPoint on GitHub</a> (hint: 'view raw').
-    * <a href="https://www.youtube.com/watch?v=-j7Wko_C374" target="_blank">Code review on (YT)</a> and
-        the <a href="https://github.com/surlydata/Surly-Data/tree/main/Credit%20Worthiness" target="_blank"> GitHub directory</a>.
-* Alteryx as a no-code/low-code analytics platform: predicting diabetes using the Pima Indians Diabetes Dataset.
-    * <a href="https://www.youtube.com/watch?v=T2I1sy6X38s&t=4s" target="_blank">GUI-based ML workflow on (YT)</a> and
-        the <a href="https://github.com/surlydata/Surly-Data/tree/main/Pima%20Indians%20Diabetes" target="_blank"> GitHub directory</a>.
-    * <a href="https://www.youtube.com/watch?v=HIquVB1o3DM" target="_blank">Deeper dive of the Confusion Matrix on (YT)</a> and
-        the <a href="https://github.com/surlydata/Surly-Data/tree/main/Confusion%20Matrix" target="_blank"> GitHub directory</a>.       
+📑 &nbsp; <a href="codeup-projects.html" target="_blank">The current Codeup projects page.</a><br>
 
-📑 An experimental R Package (<a href="https://github.com/eltownes/CryptoR/blob/main/CryptoR_Vignette.pdf" target="_blank">pdf vignette on GitHub</a>)
+📑 &nbsp; Surly 😡 Data: a little bit of statistical counseling for bad-tempered data i.e. machine learning.
+* Mostly captures USF's final course: <em>Predictive Analytics</em> along with some quasi capstone stuff.
+   * R and its tidy paradigm.
+      * Predict credit worthiness for new applications at Small Bank USA.
+         * <a href="https://www.youtube.com/watch?v=bW47QDyInDo" target="_blank">Business summary on YT</a> and
+             the <a href="https://github.com/surlydata/Surly-Data/blob/main/Credit%20Worthiness/Credit%20Worthiness.pptx" target="_blank"> PowerPoint on GitHub</a> (hint: 'view raw').
+         * <a href="https://www.youtube.com/watch?v=-j7Wko_C374" target="_blank">Code review on YT</a> and
+             the <a href="https://github.com/surlydata/Surly-Data/tree/main/Credit%20Worthiness" target="_blank"> GitHub directory</a>.
+   * <a href="https://www.alteryx.com/" target="_blank">Alteryx's</a> no-code/low-code analytics platform.
+     * Predict diabetes using the Pima Indians Diabetes Dataset.
+         * <a href="https://www.youtube.com/watch?v=T2I1sy6X38s&t=4s" target="_blank">GUI-based ML workflow on YT</a> and
+             the <a href="https://github.com/surlydata/Surly-Data/tree/main/Pima%20Indians%20Diabetes" target="_blank"> GitHub directory</a>.
+         * <a href="https://www.youtube.com/watch?v=HIquVB1o3DM" target="_blank">Deeper dive of the Confusion Matrix on YT</a> and
+             the <a href="https://github.com/surlydata/Surly-Data/tree/main/Confusion%20Matrix" target="_blank"> GitHub directory</a>.       
+
+📑 &nbsp; An experimental R Package (<a href="https://github.com/eltownes/CryptoR/blob/main/CryptoR_Vignette.pdf" target="_blank">pdf vignette on GitHub</a>)
     that explores a core feature of the CoinGecko cryptocurrency API.<br>
 
-📑 A <a href="https://public.tableau.com/app/profile/eric.townes/viz/WorldReligions_15880970461920/Panorama" target="_blank">Tableau interactive dashboard</a> published on Tableau Public that explores  world religions -
-   the <a href="https://github.com/eltownes/USF-LIS4317/tree/master/Final%20Project" target="_blank"> GitHub README</a>.<br>
+📑 &nbsp; A <a href="https://public.tableau.com/app/profile/eric.townes/viz/WorldReligions_15880970461920/Panorama" target="_blank">Tableau interactive dashboard</a> published on Tableau Public that explores 
+   world religions. FYA, a warning pops up because the dashboard links to a YT video. The <a href="https://github.com/eltownes/USF-LIS4317/tree/master/Final%20Project" target="_blank"> GitHub README</a>.<br>
 
-📑 Micro posts on Blogger from my Information Studies Program at USF.
+📑 &nbsp; Micro blog posts covering some of USF's analytics courses.
 * <a href="https://et-lis4761.blogspot.com" target="_blank">Data & Text Mining</a> and the <a href="https://github.com/eltownes/USF-LIS4761" target="_blank"> GitHub README</a>.
 * <a href="https://et-lis4317.blogspot.com" target="_blank">Visual Analytics</a> and the <a href="https://github.com/eltownes/USF-LIS4317" target="_blank"> GitHub README</a>.
 * <a href="https://et-lis4273.blogspot.com" target="_blank">Statistics and Analytics</a> and the <a href="https://github.com/eltownes/USF-LIS4273" target="_blank"> GitHub README</a>.
 * <a href="https://et-lis4370.blogspot.com" target="_blank">R Programming</a> and the <a href="https://github.com/eltownes/USF-LIS4370" target="_blank"> GitHub README</a>.
+<br><br>
 
-</div>
-
-<hr style="height: 1px; background-color: #A9A9A9;">
-
-<div id="stats">
-<h3 style="color: #0066CC;"> Stats 🧮 </h3>
+## Stats 🧮
 
 <table>
     <tr>
@@ -113,7 +123,3 @@ public Intro(String firstName, String lastName) {
         </td>
     </tr>
 </table>
-
-</div>
-
------

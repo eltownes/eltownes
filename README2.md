@@ -24,3 +24,44 @@ https://www.w3schools.com/colors/colors_picker.asp
 
 https://www.va.gov/education/benefit-rates/vet-tec-rates/#2023-to-2024-vet-tec-rates
 
+https://ezgif.com/maker
+https://quotescover.com/tools/online-quotes-maker
+
+```java
+public class Intro {
+    private String firstName, lastName;
+    public Intro(String firstName, String lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName; 
+    }
+    public static void main(String[] args) {
+        Intro whoami = new Intro("Eric", "Townes"); 
+    }
+}
+```
+
+```javascript
+class Intro {
+    constructor(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+    }
+}
+
+const whoami = new Intro("Eric", "Townes");
+
+
+```
+
+```javascript
+const jsonData = {
+  "Intro": {
+    "firstName": "Eric",
+    "lastName": "Townes"
+  }
+};
+
+const whoami = `${jsonData.Intro.firstName} ${jsonData.Intro.lastName}`;
+
+
+```
