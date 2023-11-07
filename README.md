@@ -40,6 +40,17 @@
 ## Tools 🛠️ &nbsp; | &nbsp; <span style="font-size: 0.60em;">(...skilled by 18 March '24)</span>
 
 * #### Learning / Using:
+
+
+<table style="border: none">
+  <tr style="border: none">
+    <td style="border: none"><img src="media/html5-color.svg" alt="HTML5" width="50"></td>
+    <td><img src="media/css3-color.svg" alt="CSS3" width="50"></td>
+  </tr>
+</table>
+
+| | |
+|:--:|:--:|
 <img src="media/space.png" title="space" alt="space" width="4%"/>
 <img src="media/html5-color.svg" title="HTML5" alt="HTML5" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
 <img src="media/css3-color.svg" title="CSS3" alt="CSS3" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
