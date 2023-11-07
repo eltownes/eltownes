@@ -86,7 +86,7 @@
 
 ##  Portfolio 📚
 
-📑 &nbsp; <a href="https://eltownes.github.io/codeup-projects.html" target="_blank">The current Codeup projects page.</a><br>
+📑 &nbsp; <a href="https://eltownes.github.io/eltownes/codeup-projects.html" target="_blank">The current Codeup projects page.</a><br>
 
 📑 &nbsp; Surly 😡 Data: a little bit of statistical counseling for bad-tempered data i.e. machine learning.
 * Mostly captures USF's final course: <em>Predictive Analytics</em> along with some quasi capstone stuff.
