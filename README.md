@@ -48,33 +48,26 @@
     <td><img src="media/javascript-color.svg" alt="Javascript" width="50"></td>
     <td><img src="media/java-svgrepo-com.svg" alt="Java" width="50"></td>
     <td><img src="media/springboot-color.svg" alt="SpringBoot" width="50"></td>
-    <td><img src="media/mysql.png" alt="MySQL" width="50"></td>
+    <td><img src="media/mysql.png" alt="MySQL" width="75"></td>
     <td><img src="media/supercloud.svg" alt="Google Cloud" width="50"></td>
   </tr>
 </table>
 
 
-<img src="media/space.png" title="space" alt="space" width="4%"/>
-<img src="media/html5-color.svg" title="HTML5" alt="HTML5" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
-<img src="media/css3-color.svg" title="CSS3" alt="CSS3" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
-<img src="media/javascript-color.svg" title="Javascript" alt="Javascript" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
-<img src="media/java-svgrepo-com.svg" title="Java" alt="Java" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
-<img src="media/springboot-color.svg" title="SpringBoot" alt="SpringBoot" width="5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
-<img src="media/mysql.png" title="MySQL" alt="MySQL" width="8%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
-<br><br>
-<img src="media/space.png" title="space" alt="space" width="4%"/>
-<img src="media/supercloud.svg" title="Google Cloud" alt="Google Cloud" width="5.5%"/><img src="media/space.png" title="space" alt="space" width="3%"/>
-
-
 * #### Used: 😢
-<img src="media/space.png" title="space" alt="space" width="4%"/>
-<img src="media/r-color.png" title="R" alt="R" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%">
-<img src="media/rstudio.png" title="RStudio" alt="RStudio" width="11%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
-<img src="media/tidyverse.svg" title="Tidyverse" alt="Tidyverse" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
-<img src="media/tidymodels.svg" title="Tidymodels" alt="Tidymodels" width="5%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
-<img src="media/tableau.png" title="Tableau" alt="Tableau" width="16%"/><img src="media/space.png" title="space" alt="space" width="1%"/>
-<img src="media/alteryx.png" title="Alteryx" alt="Alteryx" width="9%"/><img src="media/space.png" title="space" alt="space" width="2%"/>
-<br><br>
+
+<table>
+  <tr>
+    <td><img src="media/r-color.png" alt="R" width="50"></td>
+    <td><img src="media/rstudio.png" alt="RStudio" width="100"></td>
+    <td><img src="media/tidyverse.svg" alt="Tidyverse" width="50"></td>
+    <td><img src="media/tidymodels.svg" alt="Tidymodels" width="50"></td>
+    <td><img src="media/tableau.png" alt="Tableau" width="100"></td>
+    <td><img src="media/alteryx.png" alt="Alteryx" width="75"></td>
+  </tr>
+</table>
+
+<br>
 
 * <details>
     <summary>Minimalist 🌐 🔗 links</summary><br>
