@@ -41,16 +41,19 @@
 
 * #### Learning / Using:
 
-
-<table style="border: none">
-  <tr style="border: none">
-    <td style="border: none"><img src="media/html5-color.svg" alt="HTML5" width="50"></td>
+<table>
+  <tr>
+    <td><img src="media/html5-color.svg" alt="HTML5" width="50"></td>
     <td><img src="media/css3-color.svg" alt="CSS3" width="50"></td>
+    <td><img src="media/javascript-color.svg" alt="Javascript" width="50"></td>
+    <td><img src="media/java-svgrepo-com.svg" alt="Java" width="50"></td>
+    <td><img src="media/springboot-color.svg" alt="SpringBoot" width="50"></td>
+    <td><img src="media/mysql.png" alt="MySQL" width="50"></td>
+    <td><img src="media/supercloud.svg" alt="Google Cloud" width="50"></td>
   </tr>
 </table>
 
-| | |
-|:--:|:--:|
+
 <img src="media/space.png" title="space" alt="space" width="4%"/>
 <img src="media/html5-color.svg" title="HTML5" alt="HTML5" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
 <img src="media/css3-color.svg" title="CSS3" alt="CSS3" width="4.5%" /><img src="media/space.png" title="space" alt="space" width="3%"/>
