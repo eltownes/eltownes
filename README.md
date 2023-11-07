@@ -2,7 +2,7 @@
     <img src="media/debugging_is_twice_as_hard.png" alt="quote by Brian Kernighan" align="center" width=55% />
 </div> 
 
-## Hey There! ✌🏽
+## Hey There! ✌🏽 
 
 <img src="media/intro.gif" alt="intro gif" width="70%" /><br>
 
@@ -27,13 +27,13 @@
     </tr>
 </table><br>
 
-## About Me 🧑🏽‍💻
+## About Me 🧑🏽‍💻 
 
 🪖 &nbsp; Enrolled in Codeup's Java Full Stack Bootcamp until <span><em><strong>18 March 2024</strong></em><span> as a VET TEC beneficiary.<br>
 📚 &nbsp; B.S. in Information Studies from <a href="https://www.usf.edu/" target="_blank">Uni of S. FL</a> / concentration in Data Science and Analytics using R .<br>
 🚴🏽‍ &nbsp; Really enjoy cycling - raced a couple of sanctioned events with 1 top 10 finish!<br>
 🗺️ &nbsp; Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
-💧 &nbsp; Slowly learning Agile/Scrum, developing on Google Cloud, and Tensorflow.js.<br>
+💧 &nbsp; Slowly learning Agile/Scrum and the Google Cloud platform.<br>
 <br>
 
 
@@ -54,7 +54,7 @@
 </table>
 
 
-* #### Used: 😢
+* #### Used: 😢 
 
 <table>
   <tr>
@@ -76,15 +76,16 @@
   * <a href="https://docs.oracle.com/en/java/javase/17/index.html" target="_blank">Java SE 17 Documentation</a>.
   * <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/index.html" target="_blank">Spring Boot Reference Documentation</a>.
   * <a href="https://www.statlearning.com/" target="_blank">An Introduction to Statistical Learning</a>.
+  * <a href="https://cloud.google.com/docs" target="_blank">Google Cloud Documentation</a>.
 
 </details><br>
 
 
-## Notes 📓
+## Notes 📓 
 
 🗒️ &nbsp; <a href="notes.md" target="_blank">Hodge podge of tech snippets</a><br><br>
 
-##  Portfolio 📚
+##  Portfolio 📚 
 
 📑 &nbsp; <a href="https://eltownes.github.io/eltownes/codeup-projects.html" target="_blank">The current Codeup projects page.</a><br>
 
@@ -116,7 +117,7 @@
 * <a href="https://et-lis4370.blogspot.com" target="_blank">R Programming</a> and the <a href="https://github.com/eltownes/USF-LIS4370" target="_blank"> GitHub README</a>.
 <br><br>
 
-## Stats 🧮
+## Stats 🧮 
 
 <table>
     <tr>
