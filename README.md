@@ -29,11 +29,11 @@
 
 ## About Me 🧑🏽‍💻 
 
-🪖 &nbsp; Enrolled in Codeup's Java Full Stack Bootcamp until <span><em><strong>18 March 2024</strong></em><span> as a VET TEC beneficiary.<br>
+🪖 &nbsp; Enrolled in <a href="https://codeup.edu/" target="_blank">Codeup's</a> Java Full Stack Bootcamp until <span><em><strong>18 March 2024</strong></em><span> as a VET TEC beneficiary.<br>
 📚 &nbsp; B.S. in Information Studies from <a href="https://www.usf.edu/" target="_blank">Uni of S. FL</a> / concentration in Data Science and Analytics using R .<br>
 🚴🏽‍ &nbsp; Really enjoy cycling - raced a couple of sanctioned events with 1 top 10 finish!<br>
 🗺️ &nbsp; Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
-💧 &nbsp; Slowly learning Agile/Scrum and the Google Cloud platform.<br>
+💧 &nbsp; Slowly learning PMI's Agile/Scrum and Google Cloud's platform.<br>
 <br>
 
 
@@ -87,7 +87,7 @@
 
 ##  Portfolio 📚 
 
-📑 &nbsp; <a href="https://eltownes.github.io/eltownes/codeup-projects.html" target="_blank">The current Codeup projects page.</a><br>
+📑 &nbsp; <a href="https://eltownes.github.io/eltownes/codeup-projects.html" target="_blank">Codeup projects page.</a><br>
 
 📑 &nbsp; Surly 😡 Data: a little bit of statistical counseling for bad-tempered data i.e. machine learning.
 * Mostly captures USF's final course: <em>Predictive Analytics</em> along with some quasi capstone stuff.
