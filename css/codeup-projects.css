@@ -160,14 +160,14 @@ aside {
     flex-wrap: nowrap;
 }
 
-aside > .projects {
-
-}
-
-
 aside > p {
     margin-bottom: 1em;
 }
+
+aside > p:hover {
+    cursor: pointer;
+}
+
 
 /******** MAIN ********/
 main {
@@ -198,33 +198,46 @@ main {
     margin-bottom: 1em;
 }
 
-.intro-2 {
+.intro-2, .p-title {
     font-family: var(--hero-font-type);
     font-size: 2.0em;
     margin-bottom: 0;
 }
 
-.intro-3 {
+.intro-3, .p-objective {
     font-family: var(--hero-font-type);
     font-size: 1.5em;
     margin-bottom: 1.5em;
 }
 
-.intro-4 {
+.intro-4, .intro-5, .p-descr, .p-link {
     font-family: var(--regular-font-type);
     font-size: 1.2em;
+    line-height: 1.75rem;
 }
 
-.intro-5 {
-    font-family: var(--regular-font-type);
-    font-size: 1.2em;
+.p-link {
+    text-decoration: none;
+    color: var(--white);
+    font-size: 0.8em;
 }
+
+.gif {
+    margin-top: 1em;
+    text-align: center;
+}
+
+
+/*.intro-5 {*/
+/*    font-family: var(--regular-font-type);*/
+/*    font-size: 1.2em;*/
+/*}*/
 
 .footer-bar {
     height: 0.25em;
     border: 0.5px solid var(--green);
     border-radius: 1em;
-    width: 90%;
+    width: 100%;
     margin: 5em auto;
 }
 
