@@ -20,7 +20,7 @@ const projectDesc = [
         descr: "We have inherited a project from Fancy Coffee Company©, and improvements need to be made to it. The " +
             "current version uses tables.",
         media: "media/coffee-project.gif",
-        width: "50%",
+        width: "75%",
         link: "https://github.com/Garrett-Eric-Coffee/coffee-project"
     },
     {
