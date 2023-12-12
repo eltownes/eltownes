@@ -5,13 +5,13 @@
 
 | Thingy          | Sub-Thingy    |                     Version                      |
 |:----------------|:--------------|:------------------------------------------------:|
-| macOS           | M2 Pro        |                   Sonama 14.0                    |
-| Homebrew        |               |                      4.1.17                      |
-|                 | git           |                      2.42.0                      |
-|                 | python3       |                  3.10 & 3.11.6                   |
-|                 | PostgreSQL    |                       14.9                       |
+| macOS           | M2 Pro        |                  Sonama 14.1.2                   |
+| Homebrew        |               |                      4.1.24                      |
+|                 | git           |                      2.43.0                      |
+|                 | python2       |                      2.7.18                      |
+|                 | python3       |                3.10 & 3.11 & 3.12                |
 |                 |               |                                                  |
-| IntelliJ        | IDEA Ultimate |                     2023.2.3                     |
+| IntelliJ        | IDEA Ultimate |                     2023.2.5                     |
 |                 | Plugins       |        GitHub Copilot, Google Cloud Code         |
 |                 |               |                Maven (bundled v3)                |
 |                 |               |                       ---                        |
@@ -22,11 +22,11 @@
 |                 | Java          |                   17.0.9-zulu                    |
 |                 | SpringBoot    |                      3.1.5                       |
 |                 |               |                                                  |
-| NVM             |               |                      0.39.5                      |  
+| NVM             |               |                      0.39.7                      |  
 |                 | Node          |                   20.9.0 (LTS)                   |
-|                 | NPM           |                      10.1.0                      |
+|                 | NPM           |                      10.2.4                      |
 |                 |               |                                                  |
-| Docker Desktop  |               |                       4.25                       |
+| Docker Desktop  |               |                      4.25.2                      |
 |                 |               |                                                  |
 |                 |               |                                                  |
 
@@ -166,8 +166,6 @@
 * <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
   <br>IDE for Java, Kotlin, Groovy, and Scala with support for frameworks like Spring, Micronaut, and Quarkus.<br>
 
-* <a href="https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh" target="_blank">Angular DevTools</a>
-  <br>Chrome extension for debugging and profiling Angular applications.
 
 </details>
 

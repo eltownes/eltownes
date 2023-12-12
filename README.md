@@ -54,7 +54,7 @@ concentration in Data Science and Analytics using R .<br>
   </tr>
   <tr>
     <td><img src="media/figma-color.svg" alt="Figma" width="50"></td>
-    <td><img src="media/Bubble-logo.svg" alt="Figma" width="75"></td>
+    <td><img src="media/Bubble-logo.svg" alt="Bubble" width="75"></td>
   </tr>
 </table>
 
