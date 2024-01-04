@@ -25,9 +25,9 @@ const projectDesc = [
     },
     {
         name: "Weather Map Project - Solo",
-        obj: "To get a 5-day forecast for any location using Mapbox and OpenWeatherMap",
-        descr: "A location can be entered into the form or the pin can be dropped anywhere to retrieve the forecast. " +
-            "Some options for the weather graph include humidity and pressure.",
+        obj: "To get a 5-day forecast for any location.",
+        descr: "A location can be entered into the form or the pin can be dropped anywhere to retrieve the forecast - " +
+            " using Mapbox and OpenWeatherMap. Some options for the weather graph include humidity and pressure.",
         media: "media/weather-map.gif",
         width: "75%",
         link: "https://github.com/eltownes/codeup-web-exercises/blob/main/weather_map.html"
@@ -66,6 +66,7 @@ function getProject (ev){
         <p class="p-title">${projectDesc[pNum - 1].name}</p>
         <p class="p-objective">Objective: ${projectDesc[pNum - 1].obj}</p>
         <p class="p-descr">${projectDesc[pNum - 1].descr}
+        <br>
         <a href="${projectDesc[pNum - 1].link}" target="_blank" class="p-link">( project's GitHub 🚀 )</a>
         </p>
         <br>
@@ -73,8 +74,7 @@ function getProject (ev){
             <img src="${projectDesc[pNum - 1].media}" alt="project image" width="${projectDesc[pNum-1].width}">
             <br>
             
-        </div>
-        
+        </div>        
     `
     document.querySelector("main").innerHTML = newMain;
 }
