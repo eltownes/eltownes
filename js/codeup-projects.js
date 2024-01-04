@@ -24,12 +24,13 @@ const projectDesc = [
         link: "https://github.com/Garrett-Eric-Coffee/coffee-project"
     },
     {
-        name: "?",
-        obj: "?",
-        descr: "?",
-        media: "media/coding_icon.png",
-        width: "5%",
-        link: ""
+        name: "Weather Map Project - Solo",
+        obj: "To get a 5-day forecast for any location using Mapbox and OpenWeatherMap",
+        descr: "A location can be entered into the form or the pin can be dropped anywhere to retrieve the forecast. " +
+            "Some options for the weather graph include humidity and pressure.",
+        media: "media/weather-map.gif",
+        width: "75%",
+        link: "https://github.com/eltownes/codeup-web-exercises/blob/main/weather_map.html"
     },
     {
         name: "?",
