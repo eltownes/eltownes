@@ -3,32 +3,33 @@
 <details>
     <summary>Tech Stack</summary><br>
 
-| Thingy   | Sub-Thingy    |                Version                 |
-|:---------|:--------------|:--------------------------------------:|
-| macOS    | M2 Pro        |             Sonama 14.1.2              |
-| Homebrew |               |                 4.1.24                 |
-|          | git           |                 2.43.0                 |
-|          | python2       |                 2.7.18                 |
-|          | python3       |           3.10 & 3.11 & 3.12           |
-|          |               |                                        |
-| IntelliJ | IDEA Ultimate |                2023.2.5                |
-|          | Plugins       |   GitHub Copilot, Google Cloud Code    |
-|          |               |           Maven (bundled v3)           |
-|          |               |                  ---                   |
-|          |               |                                        |
-|          |               |                                        |
-|          |               |                                        |
-| SDKMAN!  |               |     script: 5.18.2 / native: 0.4.3     |
-|          | Java          |              17.0.9-zulu               |
-|          | SpringBoot    |                 3.1.5                  |
-|          |               |                                        |
-| NVM      |               |                 0.39.7                 |  
-|          | Node          |              20.9.0 (LTS)              |
-|          | NPM           |                 10.2.4                 |
-|          |               |                                        |
-| Docker   | Desktop       |                 4.25.2                 |
-|          | Terminal      |                 24.0.6                 |
-|          |               |                                        |
+| Thingy   | Sub-Thingy    |              Version              |
+|:---------|:--------------|:---------------------------------:|
+| macOS    | M2 Pro        |           Sonama 14.1.2           |
+| Homebrew |               |              4.1.24               |
+|          | git           |              2.43.0               |
+|          | python2       |              2.7.18               |
+|          | python3       |        3.10 & 3.11 & 3.12         |
+|          |               |                                   |
+| IntelliJ | IDEA Ultimate |             2023.2.5              |
+|          | Plugins       | GitHub Copilot, Google Cloud Code |
+|          |               |        Maven (bundled v3)         |
+|          |               |                ---                |
+|          |               |                                   |
+|          |               |                                   |
+|          |               |                                   |
+| SDKMAN!  |               |  script: 5.18.2 / native: 0.4.3   |
+|          | Java          |            17.0.9-zulu            |
+|          | SpringBoot    |               3.1.5               |
+|          | gradle        |                8.5                | 
+|          |               |                                   |
+| NVM      |               |              0.39.7               |  
+|          | Node          |           20.9.0 (LTS)            |
+|          | NPM           |              10.2.4               |
+|          |               |                                   |
+| Docker   | Desktop       |              4.25.2               |
+|          | Terminal      |              24.0.6               |
+|          |               |                                   |
 
 
 <details>
@@ -81,6 +82,8 @@
           
             sdk current java
             sdk current // all candidates
+          
+            sdk update
           
             sdk upgrade springboot // view outdated
             sdk upgrade
