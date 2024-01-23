@@ -168,6 +168,10 @@ aside > p:hover {
     cursor: pointer;
 }
 
+#p5, #p6 {
+    color: orangered;
+}
+
 
 /******** MAIN ********/
 main {

@@ -11,7 +11,7 @@ const projectDesc = [
         descr: "The graphic design team has given us a style guide and 4 wireframes showing us how the site " +
             "should look according to the device screen size: xs, sm, md lg and xl.",
         media: "media/codeup-design.gif",
-        width: "50%",
+        width: "75%",
         link: "https://github.com/bret-eric-imugi/codeup-design-project"
     },
     {
@@ -20,7 +20,7 @@ const projectDesc = [
         descr: "We have inherited a project from Fancy Coffee Company©, and improvements need to be made to it. The " +
             "current version uses tables.",
         media: "media/coffee-project.gif",
-        width: "75%",
+        width: "90%",
         link: "https://github.com/Garrett-Eric-Coffee/coffee-project"
     },
     {
@@ -29,31 +29,31 @@ const projectDesc = [
         descr: "A location can be entered into the form or the pin can be dropped anywhere to retrieve the forecast - " +
             " using Mapbox and OpenWeatherMap. Some options for the weather graph include humidity and pressure.",
         media: "media/weather-map.gif",
-        width: "75%",
+        width: "90%",
         link: "https://github.com/eltownes/codeup-web-exercises/blob/main/weather_map.html"
     },
     {
-        name: "?",
+        name: "Movies Application - Team Easi & Eric",
+        obj: "To create a movie database",
+        descr: "A local JSON movie database that allows for CRUD operations.",
+        media: "media/movies-db.gif",
+        width: "90%",
+        link: "https://github.com/Hatchett-Townes-movies-app/movies-application"
+    },
+    {
+        name: "Codeup aburptly closed its doors",
         obj: "?",
         descr: "?",
         media: "media/coding_icon.png",
-        width: "5%",
+        width: "0%",
         link: ""
     },
     {
-        name: "?",
+        name: "Codeup aburptly closed its doors",
         obj: "?",
         descr: "?",
         media: "media/coding_icon.png",
-        width: "5%",
-        link: ""
-    },
-    {
-        name: "?",
-        obj: "?",
-        descr: "?",
-        media: "media/coding_icon.png",
-        width: "5%",
+        width: "0%",
         link: ""
     }
 ]
