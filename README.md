@@ -29,32 +29,33 @@
 
 ## About Me 🧑🏽‍💻
 
-🪖 &nbsp; Enrolled in <a href="https://codeup.edu/" target="_blank">Codeup's</a> Java Full Stack Bootcamp
-until <span><em><strong>18 March 2024</strong></em><span> as a VET TEC beneficiary.<br>
+🪖 &nbsp; Enrolled in <a href="https://skilldistillery.com/" target="_blank">Skill 
+Distillery's</a> Full-Stack Development with Java
+until <span><em><strong>3 June 2024</strong></em><span> as a VET TEC beneficiary.<br>
 📚 &nbsp; B.S. in Information Studies from <a href="https://www.usf.edu/" target="_blank">Uni of S. FL</a> /
 concentration in Data Science and Analytics using R .<br>
 🚴🏽‍ &nbsp; Really enjoy cycling - raced a couple of sanctioned events with 1 top 10 finish!<br>
 🗺️ &nbsp; Bilingual in English and Dutch - do need to brush up on conversational Spanish.<br>
-💧 &nbsp; Slowly learning PMI's Agile/Scrum and Google Cloud's platform.<br>
+💧 &nbsp; Slowly learning PMI's Agile/Scrum and Azure Cloud's platform.<br>
 <br>
 
 ## Tools 🛠️
 
-* #### Learning / Using: &nbsp; <span style="font-size: 0.60em;">(...skilled by 18 March '24)</span>
+* #### Learning / Using: &nbsp; <span style="font-size: 0.60em;">(...skilled by 3 June '24)
+</span>
 
 <table>
   <tr>
     <td><img src="media/html5-color.svg" alt="HTML5" width="50"></td>
     <td><img src="media/css3-color.svg" alt="CSS3" width="50"></td>
     <td><img src="media/javascript-color.svg" alt="Javascript" width="50"></td>
-    <td><img src="media/java-svgrepo-com.svg" alt="Java" width="50"></td>
-    <td><img src="media/springboot-color.svg" alt="SpringBoot" width="50"></td>
-    <td><img src="media/mysql.png" alt="MySQL" width="75"></td>
-    <td><img src="media/supercloud.svg" alt="Google Cloud" width="50"></td>
+    <td><img src="media/java-svgrepo-com.svg" alt="Java" width="50"></td>    
+    <td><img src="media/mysql.png" alt="MySQL" width="75"></td>    
   </tr>
   <tr>
-    <td><img src="media/figma-color.svg" alt="Figma" width="50"></td>
-    <td><img src="media/Bubble-logo.svg" alt="Bubble" width="75"></td>
+    <td><img src="media/spring-color.svg" alt="Figma" width="50"></td>
+    <td><img src="media/springboot-color.svg" alt="SpringBoot" width="50"></td>
+    <td><img src="media/microsoftazure-color.svg" alt="MySQL" width="50"></td>
   </tr>
 </table>
 
@@ -76,12 +77,13 @@ concentration in Data Science and Analytics using R .<br>
 * <details>
     <summary>Minimalist 🌐 🔗 links</summary><br>
 
-    * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Web Documentation</a>.
-    * <a href="https://docs.oracle.com/en/java/javase/17/index.html" target="_blank">Java SE 17 Documentation</a>.
-    * <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/index.html" target="_blank">Spring Boot
-      Reference Documentation</a>.
-    * <a href="https://www.statlearning.com/" target="_blank">An Introduction to Statistical Learning</a>.
-    * <a href="https://cloud.google.com/docs" target="_blank">Google Cloud Documentation</a>.
+    * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Web</a>.
+    * <a href="https://openjdk.org/" target="_blank">OpenJDK</a>.
+    * <a href="https://spring.io/projects/spring-framework/" target="_blank">Spring Framework</a>.
+    * <a href="https://learn.microsoft.com/en-us/azure/spring-apps/" target="_blank">Spring 
+      on Azure</a>.
+    * <a href="https://www.statlearning.com/" target="_blank">An Introduction to Statistical Learning</a>.    
+
 
 </details><br>
 
@@ -91,8 +93,10 @@ concentration in Data Science and Analytics using R .<br>
 
 ## Portfolio 📚
 
+📑 &nbsp; Skill Distillery projects - coming.<br>
+
 📑 &nbsp; <a href="https://eltownes.github.io/eltownes/codeup-projects.html" target="_blank">Codeup projects
-page.</a><br>
+page ( school abruptly disbanded at week 11 of 20 ).</a><br>
 
 📑 &nbsp; Surly 😡 Data: a little bit of statistical counseling for bad-tempered data i.e. machine learning.
 
